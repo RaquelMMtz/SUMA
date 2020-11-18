@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\PracticaSuma\bin\Debug\PracticaSuma.exe.config
+C:\Users\USER\source\repos\PracticaSuma\bin\Debug\PracticaSuma.exe
+C:\Users\USER\source\repos\PracticaSuma\bin\Debug\PracticaSuma.pdb
+C:\Users\USER\source\repos\PracticaSuma\obj\Debug\PracticaSuma.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\PracticaSuma\obj\Debug\PracticaSuma.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PracticaSuma\obj\Debug\PracticaSuma.exe
+C:\Users\USER\source\repos\PracticaSuma\obj\Debug\PracticaSuma.pdb
